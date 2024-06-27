@@ -1,2 +1,3 @@
 /dev/docker/data
 .dvc/config
+/30420.zarr

@@ -1,0 +1,6 @@
+outs:
+- md5: 9a7a8b5dc47b5f8abe7a2618915e45b3.dir
+  size: 135622
+  nfiles: 12
+  hash: md5
+  path: 30420.zarr
